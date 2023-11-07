@@ -1,0 +1,10 @@
+.vscode
+.DS_Store
+Slides
+.ipynb_checkpoints
+__pycache__
+python_manual.txt
+python_interviews
+.ipynb_checkpoints
+archive
+Practice/Interviews

@@ -1,0 +1,6 @@
+python_manual.txt
+.DS_Store
+.vscode
+__pycache__
+.ipynb_checkpoints
+data_structures_algorithms_udemy

@@ -1,0 +1,10 @@
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+.vscode
+build
+.DS_Store
+__pycache__
+.ipynb_checkpoints

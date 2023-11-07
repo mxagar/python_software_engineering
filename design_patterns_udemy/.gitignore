@@ -1,0 +1,15 @@
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+.vscode
+build
+.DS_Store
+accelerated_computer_science_coursera
+c++
+python_manual.txt
+DesignPatternsWebinar
+__pycache__
+.ipynb_checkpoints
+design_patterns_card.pdf
