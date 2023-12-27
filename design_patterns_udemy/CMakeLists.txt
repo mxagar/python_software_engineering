@@ -1,2 +1,0 @@
-project(DesignPatterns)
-add_subdirectory(01_SOLID)
